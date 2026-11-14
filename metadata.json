@@ -1,0 +1,8 @@
+{
+  "name": "TurbineOps — Predictive Maintenance & Text-to-SQL AI Agent",
+  "description": "End-to-end industrial predictive maintenance platform combining neural failure probability modeling, a Gemini-powered Text-to-SQL and RAG log retrieval agent over SQLite, and a Google Cloud BigQuery and Cloud SQL scaling simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
